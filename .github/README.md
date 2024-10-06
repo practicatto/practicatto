@@ -1,11 +1,17 @@
 ```
 hi!
 
-I'm currently learning: rust and zig (also some cloud computing)
+I'm currently learning: 
 
-Now: I'm doing full stack development and  mobile development with flutter (probably i will give kotlin a try). 
+- Programming languages: rust, zig, gleam and OCaml 
 
-If you want to contact me for some reason: me@joangie.tech
+- Other stuff:  database internals, cloud computing & distributed systems, and compilers theory
+
+(and some math but let's keep it short)
+
+Now: I'm doing web and some mobile with flutter
+
+If you want to contact me for some reason: me@practicat.dev
 
  ╱|、
 (˚ˎ。7
