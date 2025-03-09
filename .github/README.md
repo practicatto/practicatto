@@ -1,7 +1,7 @@
 ```
 hi!
 
-- currently learning: java, zig and ocaml
+- currently learning: rust, zig and ocaml
 
 - now: I'm doing full stack development
 
